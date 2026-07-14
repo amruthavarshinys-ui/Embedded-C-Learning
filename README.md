@@ -2,25 +2,89 @@
 
 Welcome to my Embedded Systems learning journey.
 
-## Goals
+## 🎯 Goal
 
-- Learn C Programming
-- Learn Embedded C
-- Build STM32 Projects
-- Build ESP32 Projects
-- Learn PCB Design using KiCad
-- Create a professional GitHub portfolio
+To become an Embedded Systems Engineer by building strong fundamentals in C, Embedded C, ESP32, STM32, and PCB Design.
 
-## Progress
+---
 
-- [ ] C Fundamentals
-- [ ] Pointers
-- [ ] Bit Manipulation
-- [ ] Embedded C
-- [ ] GPIO
-- [ ] UART
-- [ ] SPI
-- [ ] I2C
-- [ ] ADC
-- [ ] PWM
-- [ ] FreeRTOS
+## 📚 Topics Completed
+
+### C Programming
+- [x] Variables
+- [x] Data Types
+- [x] Operators
+- [x] if-else
+- [x] switch
+- [x] for loop
+- [x] while loop
+- [x] Functions
+- [x] Arrays
+- [x] Strings
+- [x] Structures
+- [x] Pointers
+
+### Embedded C
+- [x] Binary Numbers
+- [x] Bitwise Operators
+- [x] Bit Masks
+- [x] Set Bit
+- [x] Clear Bit
+- [x] Toggle Bit
+- [x] Check Bit
+- [x] Registers
+- [x] Memory-Mapped I/O
+- [x] GPIO Concepts
+
+### Professional C
+- [x] const
+
+---
+
+## 📂 Repository Structure
+
+```
+Embedded-C-Learning
+│
+├── README.md
+│
+├── 10_Professional_C
+│   ├── const_example.c
+│   ├── const_sensor.c
+│   └── const_math.c
+```
+
+---
+
+## 🚀 Current Progress
+
+- ✅ Development environment setup
+- ✅ Git & GitHub configured
+- ✅ GCC compiler installed
+- ✅ First C programs compiled and executed
+- ✅ Learning Professional C
+
+---
+
+## 📅 Next Topics
+
+- [ ] volatile
+- [ ] typedef
+- [ ] enum
+- [ ] Header Files
+- [ ] Multi-file Programs
+- [ ] Macros
+
+---
+
+## 🛠 Tools Used
+
+- Visual Studio Code
+- Git
+- GitHub
+- MSYS2
+- GCC Compiler
+
+---
+
+**Started:** July 2026
