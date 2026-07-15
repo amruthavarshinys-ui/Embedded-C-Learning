@@ -38,6 +38,7 @@ To become an Embedded Systems Engineer by building strong fundamentals in C, Emb
 
 ### Professional C
 - [x] const
+- [x] volatile
 
 ---
 
@@ -68,7 +69,7 @@ Embedded-C-Learning
 
 ## 📅 Next Topics
 
-- [ ] volatile
+
 - [ ] typedef
 - [ ] enum
 - [ ] Header Files
