@@ -40,6 +40,8 @@ To become an Embedded Systems Engineer by building strong fundamentals in C, Emb
 - [x] const
 - [x] volatile
 - [x] typedef
+- [x] enum
+
 
 ---
 
@@ -70,7 +72,6 @@ Embedded-C-Learning
 
 ## 📅 Next Topics
 
-- [ ] enum
 - [ ] Header Files
 - [ ] Multi-file Programs
 - [ ] Macros
