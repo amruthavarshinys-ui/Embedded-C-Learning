@@ -43,6 +43,7 @@ To become an Embedded Systems Engineer by building strong fundamentals in C, Emb
 - [x] enum
 - [x] Header Files
 - [x] Multi-file Programs
+- [x] Macros
 
 ---
 
@@ -72,8 +73,15 @@ Embedded-C-Learning
 ---
 
 ## 📅 Next Topics
-- [ ] Multi-file Programs
-- [ ] Macros
+- [] static
+- [] Memory Layout
+- [] Stack vs Heap
+- [] Function Pointers
+- [] Arrays and Pointers
+- [] Memory functions
+- [] Bitfields
+- [] Unions
+- [] Command Line and Build Process
 
 ---
 
