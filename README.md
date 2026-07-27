@@ -44,6 +44,7 @@ To become an Embedded Systems Engineer by building strong fundamentals in C, Emb
 - [x] Header Files
 - [x] Multi-file Programs
 - [x] Macros
+- [x] static
 
 ---
 
@@ -73,7 +74,6 @@ Embedded-C-Learning
 ---
 
 ## 📅 Next Topics
-- [] static
 - [] Memory Layout
 - [] Stack vs Heap
 - [] Function Pointers
