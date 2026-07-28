@@ -45,6 +45,7 @@ To become an Embedded Systems Engineer by building strong fundamentals in C, Emb
 - [x] Multi-file Programs
 - [x] Macros
 - [x] static
+- [x] Memory Layout
 
 ---
 
