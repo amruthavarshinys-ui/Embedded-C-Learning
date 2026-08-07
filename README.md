@@ -46,6 +46,7 @@ To become an Embedded Systems Engineer by building strong fundamentals in C, Emb
 - [x] Macros
 - [x] static
 - [x] Memory Layout
+- [x] Stack vs Heap
 
 ---
 
@@ -75,8 +76,6 @@ Embedded-C-Learning
 ---
 
 ## 📅 Next Topics
-- [] Memory Layout
-- [] Stack vs Heap
 - [] Function Pointers
 - [] Arrays and Pointers
 - [] Memory functions
